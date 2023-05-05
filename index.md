@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https:/YuweiChen2000.github.io/chenyuwei.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yuwei Chen (陈瑜炜)**.
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am currently a senior student majoring in preventive medicine at Xiangya School of Public Health, Central South University. I have been admitted to the Basic Medical College of Peking Union Medical College for graduate studies in **biochemistry and molecular biology**.Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 
