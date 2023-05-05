@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yuwei Chen (陈瑜炜)**.
 
-I am currently a senior student majoring in preventive medicine at Xiangya School of Public Health, Central South University. I have been admitted to the Basic Medical College of Peking Union Medical College for graduate studies in **biochemistry and molecular biology**.Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am currently a senior student majoring in preventive medicine at Xiangya School of Public Health, Central South University. I have been admitted to the Institute of Basic Medical Sciences (IBMS) of Chinese Academy of Medical Sciences & Peking Union Medical College (CAMS & PUMC) for graduate studies in **biochemistry and molecular biology**.Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 
